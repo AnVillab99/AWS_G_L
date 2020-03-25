@@ -35,27 +35,27 @@ Server on EC2  :
 ![Server](https://github.com/AnVillab99/AWS_G_L/blob/master/resources/img/server.PNG)
 
 EC2 group :
-![EC2](https://github.com/AnVillab99/AWS_G_L/blob/master/resources/img/ec2.png)
+![EC2](https://github.com/AnVillab99/AWS_G_L/blob/master/resources/img/ec2.PNG)
 
 S3 bucket :
-![S3](https://github.com/AnVillab99/AWS_G_L/blob/master/resources/img/s3.png)
+![S3](https://github.com/AnVillab99/AWS_G_L/blob/master/resources/img/s3.PNG)
 
 Page on S3 :
-![Page](https://github.com/AnVillab99/AWS_G_L/blob/master/resources/img/page.png)
+![Page](https://github.com/AnVillab99/AWS_G_L/blob/master/resources/img/page.PNG)
 
 AutoScalingroup :
-![AutoScalingroup](https://github.com/AnVillab99/AWS_G_L/blob/master/resources/img/asg1.png)
+![AutoScalingroup](https://github.com/AnVillab99/AWS_G_L/blob/master/resources/img/asg1.PNG)
 
 Use of gateway and lambda :
-![Use](https://github.com/AnVillab99/AWS_G_L/blob/master/resources/img/request.png)
+![Use](https://github.com/AnVillab99/AWS_G_L/blob/master/resources/img/request.PNG)
 
 
 Use of gateway :
-![gateway](https://github.com/AnVillab99/AWS_G_L/blob/master/resources/img/gateway.png)
+![gateway](https://github.com/AnVillab99/AWS_G_L/blob/master/resources/img/gateway.PNG)
 
 
 Use of lambda :
-![lambda](https://github.com/AnVillab99/AWS_G_L/blob/master/resources/img/lambda.png)
+![lambda](https://github.com/AnVillab99/AWS_G_L/blob/master/resources/img/lambda.PNG)
 
 
 ## Design
